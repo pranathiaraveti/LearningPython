@@ -1,3 +1,3 @@
 def printData(name):
     print(name)
-printData('Pranathi')
+printData('Pranathi is a good girl')
